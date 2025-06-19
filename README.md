@@ -84,16 +84,6 @@ It leverages real-world agricultural datasets, deep learning with CNNs, and ense
 
 ---
 
-## 📸 Demo Preview
-
-_Add screenshots here:_
-- Home page UI
-- Crop recommendation form
-- Leaf upload and prediction output
-- Water requirement input and results
-
----
-
 ## 📚 References
 
 - [PlantVillage Dataset - Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)  
