@@ -52,7 +52,6 @@ It leverages real-world agricultural datasets, deep learning with CNNs, and ense
 ```markdown
 ## 📁 Folder Structure
 
-```
 
 AgriTech/
 ├── app.py                     # Main Flask application file
@@ -70,7 +69,7 @@ AgriTech/
 ├── README.md                  # Project documentation (this file)
 
 ```
-```
+
 
 
 ## 🧪 Model Evaluation
