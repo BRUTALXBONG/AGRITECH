@@ -48,16 +48,30 @@ It leverages real-world agricultural datasets, deep learning with CNNs, and ense
 
 ---
 
-## 📁 Folder Structure
-├── crop_prediction.py # Crop recommendation model
-├── disease_prediction.py # CNN-based disease detection
-├── water_requirement.py # Water requirement regressor
-├── app.py # Flask backend
-├── templates/ # HTML files
-├── static/ # CSS and uploads
-├── README.md # Project documentation
 
----
+```markdown
+## 📁 Folder Structure
+
+```
+
+AgriTech/
+├── app.py                     # Main Flask application file
+├── crop\_prediction.py         # Crop recommendation logic using Random Forest
+├── disease\_prediction.py      # CNN-based model for plant disease detection
+├── water\_requirement.py       # Water requirement prediction using regression
+├── requirements.txt           # Python dependencies
+├── templates/                 # HTML templates for the frontend UI
+│   ├── index.html
+│   ├── crop\_prediction.html
+│   ├── disease\_prediction.html
+│   └── water\_management.html
+├── static/                    # Static assets (CSS, images, uploads)
+│   └── uploads/               # Folder for uploaded leaf images
+├── README.md                  # Project documentation (this file)
+
+```
+```
+
 
 ## 🧪 Model Evaluation
 
