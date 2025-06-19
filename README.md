@@ -131,7 +131,6 @@ Make sure you have **Python 3.8+** and **pip** installed.
 
 In the terminal, run:
 
-```bash
 pip install -r requirements.txt
 
 ### 📦 Step 4: Run the Flash App
