@@ -77,12 +77,6 @@ It leverages real-world agricultural datasets, deep learning with CNNs, and ense
 
 ---
 
-## 🧑‍💻 Contributors
-
-- Soumyadeep Dutta  
-- Koustav Santra  
-
----
 
 ## 📚 References
 
