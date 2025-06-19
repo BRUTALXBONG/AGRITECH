@@ -102,6 +102,40 @@ _Add screenshots here:_
 
 ---
 
+## 💻 How to Run This Project Locally
+
+You can run the AgriTech web app on your local machine using the steps below.
+
+---
+
+### 🔗 Step 1: Download the Project Folder
+
+1. Go to the shared Google Drive link:  
+   [Click Here to Download](https://drive.google.com/file/d/1tDiBSyhitdaL0SLYgOQDuOq13ZDRrvvE/view)
+2. Click the **Download** button (top-right corner).
+3. Once downloaded, **extract** the ZIP file to your local system (e.g., into a folder named `AgriTech`).
+
+---
+
+### 🧑‍💻 Step 2: Open Project in VS Code
+
+1. Open **Visual Studio Code**.
+2. Click on `File > Open Folder` and select the extracted `AgriTech` folder.
+3. Open a new terminal inside VS Code (`Ctrl + ~` or use the `Terminal > New Terminal` menu).
+
+---
+
+### 📦 Step 3: Install Python Dependencies
+
+Make sure you have **Python 3.8+** and **pip** installed.
+
+In the terminal, run:
+
+```bash
+pip install -r requirements.txt
+
+### 📦 Step 4: Run the Flash App
+
 ## ✅ License
 This project is part of the academic curriculum at NSHM Knowledge Campus and is meant for educational and non-commercial purposes.
 
